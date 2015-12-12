@@ -1,0 +1,66 @@
+﻿body { 
+}
+
+
+
+    .main_menu
+    {
+       
+         
+        margin-top:80px;
+        width: 6px;
+        background-color: Navy;
+        color: #000;
+        text-align: center;
+        height: 30px;
+        line-height: 50px;
+        margin-right: 50px;
+        margin-left:100px;
+        color:White;
+       
+        padding-left:0px;
+        padding-right:40px;
+        
+        margin-left:170px;          
+     
+    }
+   
+
+    
+    .level_menu
+    {
+        width: 110px;
+        background-color:Gray;
+        color: White;
+        text-align: center;
+        height: 50px;
+        line-height: 30px;
+        margin-top: 5px;
+
+    }
+    .inside_menu
+    {
+        width: 90px;
+        background-color: Gray;
+        color: White;
+        text-align: center;
+        height: 10px;
+        line-height: 15px;
+        margin-top: 0px;
+    }
+    .selected
+    {
+        background-color: #852B91;
+        color: #fff;
+    }
+
+    .lblformat
+    
+    {
+        text-align:center;
+        margin:170px;
+        color:Black;
+        padding-left:60px;
+    }
+
+

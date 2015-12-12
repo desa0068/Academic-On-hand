@@ -1,0 +1,98 @@
+﻿ .AspNet-Menu-Horizontal ul.AspNet-Menu li
+{
+    float: left;
+}
+
+
+
+body
+ {
+    
+     
+        font-family: Arial;
+        font-size: 10pt;
+        color:White;
+        height:100%;
+       width:100%;
+       background-repeat:no-repeat;
+       background-color:#996699;
+          
+        
+ }
+    .main_menu
+    {
+       
+       
+        margin-top:35px;
+        width: 100px;
+        background-color: Navy;
+        color: #000;
+        text-align: center;
+        height: 30px;
+        line-height: 30px;
+        margin-right: 50px;
+        margin-left:50px;
+        color:White;
+        text-align:center;
+        padding-left:5px;
+        padding-right:5px;
+     
+    }
+    .level_menu
+    {
+        width: 100px;
+        background-color:Gray;
+        color: White;
+        text-align: center;
+        height: 50px;
+        line-height: 40px;
+        margin-top: 0px;
+        
+        
+    }
+    .inside_menu
+    {
+        width:100px;
+        background-color:Gray;
+        color: White;
+        text-align: center;
+        
+                
+        
+    }
+    .selected
+    {
+        background-color: #852B91;
+        color: #fff;
+    }
+
+       #header
+    {
+        background-color:#330033;
+        width:120%;
+        padding:20px;
+        height:80px;
+       
+        
+    }
+
+    .lblformat
+    
+    {
+       
+       
+       font-size:20px;
+       color:White;
+       text-align:center;
+       padding-left:550px;
+       
+            
+        
+    }
+
+    
+    
+   
+    
+    
+   
